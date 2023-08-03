@@ -1,7 +1,7 @@
 # Yoga-Center
 This is a website for Yoga Courses.
 <h2>This is a website for providing Yoga knowledge and booking a Yoga Course.</h2>
-The main project folder that for learning, practicing, and finishing the Software Development Project course. I am in charge of the Business Analyst role in this project.
+The main project folder that for learning, practicing, and finishing the Software Requirements course. I am in charge of the Business Analyst role in this project.
 <h2>Table of contents</h2>
 <p style="font-weight: bold"><a href="#description">- Description</a></p>
 <p style="font-weight: bold"><a href="#preview-screenshot">- Preview Screenshot</a></p>
